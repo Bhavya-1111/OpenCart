@@ -1,0 +1,36 @@
+18:05:55.739 ERROR TC_002Accountregisteration - Test Failed with Exceptionno such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
+  (Session info: chrome=156.0.8078.79)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [26e31bfbf9b23db66d45fef53373dde9, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.79, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\Bhavya\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61936}, goog:processID: 23396, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61936/devtoo..., se:cdpVersion: 156.0.8078.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 26e31bfbf9b23db66d45fef53373dde9
+08:17:18.297 ERROR TC_002Accountregisteration - Test Failed with Exceptionno such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
+  (Session info: chrome=156.0.8078.79)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3428e4de5b8abc21c847ac8ae4b853bd, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.79, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\Bhavya\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62941}, goog:processID: 15940, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62941/devtoo..., se:cdpVersion: 156.0.8078.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3428e4de5b8abc21c847ac8ae4b853bd
+08:20:23.848 ERROR TC_002Accountregisteration - Test Failed with Exceptioninvalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=156.0.8078.79)
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bc646168a5b4fca8d3d7dd65a4bf0899, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.79, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\Bhavya\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64534}, goog:processID: 5060, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64534/devtoo..., se:cdpVersion: 156.0.8078.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc646168a5b4fca8d3d7dd65a4bf0899
+08:27:34.530 ERROR TC_002Accountregisteration - Test Failed with Exceptionno such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
+  (Session info: chrome=156.0.8078.79)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5e7b6733e73f368b0d26959dfde8c6f3, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.79, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\Bhavya\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64220}, goog:processID: 20976, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64220/devtoo..., se:cdpVersion: 156.0.8078.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5e7b6733e73f368b0d26959dfde8c6f3

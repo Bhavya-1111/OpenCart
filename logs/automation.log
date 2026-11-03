@@ -1,0 +1,254 @@
+12:08:01.866 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:01.885 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:04.598 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:04.620 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:04.775 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:04.821 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:04.916 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:04.932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:05.227 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:05.232 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:05.427 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:05.435 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:05.602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:05.607 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:05.742 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:05.744 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:05.952 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:05.965 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:06.033 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:06.053 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:06.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:06.151 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:06.279 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:06.280 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:06.434 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:06.439 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:06.827 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:06.878 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:08:07.110 [main] INFO  testCases.TC_005loginDDT - ***** Starting TC_005loginDDT *****
+12:08:07.111 [main] DEBUG testCases.TC_005loginDDT - Test data -> email: opencartqtree@gmail.com, expected: Valid
+12:08:07.181 [main] INFO  testCases.TC_005loginDDT - Clicking 'My Account' link
+12:08:07.296 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' link
+12:08:07.686 [main] INFO  testCases.TC_005loginDDT - Entering email
+12:08:08.008 [main] INFO  testCases.TC_005loginDDT - Entering password
+12:08:08.114 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' button
+12:08:10.379 [main] INFO  testCases.TC_005loginDDT - My Account page displayed: true
+12:08:10.379 [main] INFO  testCases.TC_005loginDDT - Valid credentials, login successful -> PASS
+12:08:11.026 [main] INFO  testCases.TC_005loginDDT - Logged out
+12:08:11.043 [main] INFO  testCases.TC_005loginDDT - ***** Finished TC_005loginDDT *****
+12:08:11.183 [main] INFO  testCases.TC_005loginDDT - ***** Starting TC_005loginDDT *****
+12:08:11.183 [main] DEBUG testCases.TC_005loginDDT - Test data -> email: opencartqtree@gmail.com, expected: Invalid
+12:08:11.212 [main] INFO  testCases.TC_005loginDDT - Clicking 'My Account' link
+12:08:11.592 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' link
+12:08:11.892 [main] INFO  testCases.TC_005loginDDT - Entering email
+12:08:12.107 [main] INFO  testCases.TC_005loginDDT - Entering password
+12:08:12.490 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' button
+12:08:23.955 [main] INFO  testCases.TC_005loginDDT - My Account page displayed: false
+12:08:23.956 [main] INFO  testCases.TC_005loginDDT - Invalid credentials, login rejected -> PASS
+12:08:23.959 [main] INFO  testCases.TC_005loginDDT - ***** Finished TC_005loginDDT *****
+12:08:23.967 [main] INFO  testCases.TC_005loginDDT - ***** Starting TC_005loginDDT *****
+12:08:23.967 [main] DEBUG testCases.TC_005loginDDT - Test data -> email: Wrongusername, expected: Invalid
+12:08:23.967 [main] INFO  testCases.TC_005loginDDT - Clicking 'My Account' link
+12:08:24.067 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' link
+12:08:24.327 [main] INFO  testCases.TC_005loginDDT - Entering email
+12:08:24.566 [main] INFO  testCases.TC_005loginDDT - Entering password
+12:08:24.826 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' button
+12:08:36.564 [main] INFO  testCases.TC_005loginDDT - My Account page displayed: false
+12:08:36.564 [main] INFO  testCases.TC_005loginDDT - Invalid credentials, login rejected -> PASS
+12:08:36.566 [main] INFO  testCases.TC_005loginDDT - ***** Finished TC_005loginDDT *****
+12:08:36.589 [main] INFO  testCases.TC_005loginDDT - ***** Starting TC_005loginDDT *****
+12:08:36.590 [main] DEBUG testCases.TC_005loginDDT - Test data -> email: bhshsh@gmail.com, expected: Invalid
+12:08:36.590 [main] INFO  testCases.TC_005loginDDT - Clicking 'My Account' link
+12:08:36.682 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' link
+12:08:37.003 [main] INFO  testCases.TC_005loginDDT - Entering email
+12:08:37.167 [main] INFO  testCases.TC_005loginDDT - Entering password
+12:08:37.312 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' button
+12:08:48.292 [main] INFO  testCases.TC_005loginDDT - My Account page displayed: false
+12:08:48.295 [main] INFO  testCases.TC_005loginDDT - Invalid credentials, login rejected -> PASS
+12:08:48.295 [main] INFO  testCases.TC_005loginDDT - ***** Finished TC_005loginDDT *****
+17:56:43.957 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:43.986 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:46.106 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:46.113 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:46.253 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:46.255 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:46.474 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:46.491 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:46.850 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:46.960 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:47.139 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:47.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:47.309 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:47.317 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:47.644 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:47.649 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:47.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:47.842 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:47.951 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:47.965 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:48.047 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:48.050 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:48.107 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:48.110 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:48.184 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:48.186 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:56:48.248 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:56:48.252 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:02:09.138 [main] INFO  testCases.TC_001Homepage - ***Test Execution Started
+18:02:09.632 [main] WARN  testCases.TC_001Homepage - Give Proper Value
+18:02:09.632 [main] INFO  testCases.TC_001Homepage - ***Account clicked ***
+18:02:10.273 [main] INFO  testCases.TC_001Homepage - ***Register clicked ***
+18:02:10.319 [main] DEBUG testCases.TC_001Homepage - Clickedhttps://tutorialsninja.com/demo/index.php?route=account/register
+18:03:30.618 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:30.630 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:32.630 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:32.634 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:32.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:32.737 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:32.880 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:32.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:33.018 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:33.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:33.171 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:33.176 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:33.262 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:33.262 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:33.358 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:33.374 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:33.482 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:33.487 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:33.640 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:33.642 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:33.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:33.738 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:33.977 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:33.977 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:34.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:34.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:34.168 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:03:34.186 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:03:34.373 [main] INFO  testCases.TC_005loginDDT - ***** Starting TC_005loginDDT *****
+18:03:34.374 [main] DEBUG testCases.TC_005loginDDT - Test data -> email: opencartqtree@gmail.com, expected: Valid
+18:03:34.407 [main] INFO  testCases.TC_005loginDDT - Clicking 'My Account' link
+18:03:34.486 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' link
+18:03:34.770 [main] INFO  testCases.TC_005loginDDT - Entering email
+18:03:34.938 [main] INFO  testCases.TC_005loginDDT - Entering password
+18:03:35.052 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' button
+18:03:36.209 [main] INFO  testCases.TC_005loginDDT - My Account page displayed: true
+18:03:36.209 [main] INFO  testCases.TC_005loginDDT - Valid credentials, login successful -> PASS
+18:03:36.683 [main] INFO  testCases.TC_005loginDDT - Logged out
+18:03:36.686 [main] INFO  testCases.TC_005loginDDT - ***** Finished TC_005loginDDT *****
+18:03:36.700 [main] INFO  testCases.TC_005loginDDT - ***** Starting TC_005loginDDT *****
+18:03:36.700 [main] DEBUG testCases.TC_005loginDDT - Test data -> email: opencartqtree@gmail.com, expected: Invalid
+18:03:36.700 [main] INFO  testCases.TC_005loginDDT - Clicking 'My Account' link
+18:03:36.897 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' link
+18:03:37.145 [main] INFO  testCases.TC_005loginDDT - Entering email
+18:03:37.279 [main] INFO  testCases.TC_005loginDDT - Entering password
+18:03:37.350 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' button
+18:03:47.462 [main] INFO  testCases.TC_005loginDDT - My Account page displayed: false
+18:03:47.462 [main] INFO  testCases.TC_005loginDDT - Invalid credentials, login rejected -> PASS
+18:03:47.468 [main] INFO  testCases.TC_005loginDDT - ***** Finished TC_005loginDDT *****
+18:03:47.493 [main] INFO  testCases.TC_005loginDDT - ***** Starting TC_005loginDDT *****
+18:03:47.495 [main] DEBUG testCases.TC_005loginDDT - Test data -> email: Wrongusername, expected: Invalid
+18:03:47.495 [main] INFO  testCases.TC_005loginDDT - Clicking 'My Account' link
+18:03:47.598 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' link
+18:03:47.838 [main] INFO  testCases.TC_005loginDDT - Entering email
+18:03:47.950 [main] INFO  testCases.TC_005loginDDT - Entering password
+18:03:48.068 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' button
+18:03:58.987 [main] INFO  testCases.TC_005loginDDT - My Account page displayed: false
+18:03:58.987 [main] INFO  testCases.TC_005loginDDT - Invalid credentials, login rejected -> PASS
+18:03:58.987 [main] INFO  testCases.TC_005loginDDT - ***** Finished TC_005loginDDT *****
+18:03:59.007 [main] INFO  testCases.TC_005loginDDT - ***** Starting TC_005loginDDT *****
+18:03:59.007 [main] DEBUG testCases.TC_005loginDDT - Test data -> email: bhshsh@gmail.com, expected: Invalid
+18:03:59.008 [main] INFO  testCases.TC_005loginDDT - Clicking 'My Account' link
+18:03:59.085 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' link
+18:03:59.323 [main] INFO  testCases.TC_005loginDDT - Entering email
+18:03:59.469 [main] INFO  testCases.TC_005loginDDT - Entering password
+18:03:59.547 [main] INFO  testCases.TC_005loginDDT - Clicking 'Login' button
+18:04:10.397 [main] INFO  testCases.TC_005loginDDT - My Account page displayed: false
+18:04:10.438 [main] INFO  testCases.TC_005loginDDT - Invalid credentials, login rejected -> PASS
+18:04:10.438 [main] INFO  testCases.TC_005loginDDT - ***** Finished TC_005loginDDT *****
+18:05:40.069 [main] INFO  testCases.TC_001Homepage - ***Test Execution Started
+18:05:40.486 [main] WARN  testCases.TC_001Homepage - Give Proper Value
+18:05:40.487 [main] INFO  testCases.TC_001Homepage - ***Account clicked ***
+18:05:40.988 [main] INFO  testCases.TC_001Homepage - ***Register clicked ***
+18:05:41.001 [main] DEBUG testCases.TC_001Homepage - Clickedhttps://tutorialsninja.com/demo/index.php?route=account/register
+18:05:43.241 [main] INFO  testCases.TC_002Accountregisteration - *******Test case Execution Started*****
+18:05:43.338 [main] INFO  testCases.TC_002Accountregisteration - *******Clicked on Myaccountlink******
+18:05:43.698 [main] INFO  testCases.TC_002Accountregisteration - *******Clicked on Register Link******
+18:05:45.674 [main] INFO  testCases.TC_002Accountregisteration - ****All the Input entered***
+18:05:55.739 [main] ERROR testCases.TC_002Accountregisteration - Test Failed with Exceptionno such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
+  (Session info: chrome=156.0.8078.79)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [26e31bfbf9b23db66d45fef53373dde9, findElement {using=xpath, value=//h1[text()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.79, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\Bhavya\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61936}, goog:processID: 23396, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61936/devtoo..., se:cdpVersion: 156.0.8078.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 26e31bfbf9b23db66d45fef53373dde9
+08:17:03.145 [main] INFO  testCases.TC_001Homepage - ***Test Execution Started
+08:17:03.324 [main] WARN  testCases.TC_001Homepage - Give Proper Value
+08:17:03.324 [main] INFO  testCases.TC_001Homepage - ***Account clicked ***
+08:17:03.687 [main] INFO  testCases.TC_001Homepage - ***Register clicked ***
+08:17:03.700 [main] DEBUG testCases.TC_001Homepage - Clickedhttps://tutorialsninja.com/demo/index.php?route=account/register
+08:17:05.907 [main] INFO  testCases.TC_002Accountregisteration - *******Test case Execution Started*****
+08:17:05.985 [main] INFO  testCases.TC_002Accountregisteration - *******Clicked on Myaccountlink******
+08:17:06.395 [main] INFO  testCases.TC_002Accountregisteration - *******Clicked on Register Link******
+08:17:08.286 [main] INFO  testCases.TC_002Accountregisteration - ****All the Input entered***
+08:17:18.297 [main] ERROR testCases.TC_002Accountregisteration - Test Failed with Exceptionno such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
+  (Session info: chrome=156.0.8078.79)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3428e4de5b8abc21c847ac8ae4b853bd, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.79, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\Bhavya\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62941}, goog:processID: 15940, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62941/devtoo..., se:cdpVersion: 156.0.8078.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3428e4de5b8abc21c847ac8ae4b853bd
+08:20:12.369 [main] INFO  testCases.TC_001Homepage - ***Test Execution Started
+08:20:12.528 [main] WARN  testCases.TC_001Homepage - Give Proper Value
+08:20:12.528 [main] INFO  testCases.TC_001Homepage - ***Account clicked ***
+08:20:12.989 [main] INFO  testCases.TC_001Homepage - ***Register clicked ***
+08:20:13.000 [main] DEBUG testCases.TC_001Homepage - Clickedhttps://tutorialsninja.com/demo/index.php?route=account/register
+08:20:15.106 [main] INFO  testCases.TC_002Accountregisteration - *******Test case Execution Started*****
+08:20:15.194 [main] INFO  testCases.TC_002Accountregisteration - *******Clicked on Myaccountlink******
+08:20:15.662 [main] INFO  testCases.TC_002Accountregisteration - *******Clicked on Register Link******
+08:20:16.304 [main] INFO  testCases.TC_002Accountregisteration - ****All the Input entered***
+08:20:23.848 [main] ERROR testCases.TC_002Accountregisteration - Test Failed with Exceptioninvalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=156.0.8078.79)
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bc646168a5b4fca8d3d7dd65a4bf0899, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.79, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\Bhavya\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64534}, goog:processID: 5060, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64534/devtoo..., se:cdpVersion: 156.0.8078.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc646168a5b4fca8d3d7dd65a4bf0899
+08:22:57.487 [main] INFO  testCases.TC_001Homepage - ***Test Execution Started
+08:22:57.612 [main] WARN  testCases.TC_001Homepage - Give Proper Value
+08:22:57.612 [main] INFO  testCases.TC_001Homepage - ***Account clicked ***
+08:22:57.951 [main] INFO  testCases.TC_001Homepage - ***Register clicked ***
+08:22:57.960 [main] DEBUG testCases.TC_001Homepage - Clickedhttps://tutorialsninja.com/demo/index.php?route=account/register
+08:22:59.903 [main] INFO  testCases.TC_002Accountregisteration - *******Test case Execution Started*****
+08:22:59.978 [main] INFO  testCases.TC_002Accountregisteration - *******Clicked on Myaccountlink******
+08:23:00.310 [main] INFO  testCases.TC_002Accountregisteration - *******Clicked on Register Link******
+08:23:00.851 [main] INFO  testCases.TC_002Accountregisteration - ****All the Input entered***
+08:23:01.843 [main] INFO  testCases.TC_002Accountregisteration - Test logger info status
+08:23:01.845 [main] DEBUG testCases.TC_002Accountregisteration -  Test debug logger
+08:27:20.547 [main] INFO  testCases.TC_001Homepage - ***Test Execution Started
+08:27:20.698 [main] WARN  testCases.TC_001Homepage - Give Proper Value
+08:27:20.699 [main] INFO  testCases.TC_001Homepage - ***Account clicked ***
+08:27:21.061 [main] INFO  testCases.TC_001Homepage - ***Register clicked ***
+08:27:21.077 [main] DEBUG testCases.TC_001Homepage - Clickedhttps://tutorialsninja.com/demo/index.php?route=account/register
+08:27:23.002 [main] INFO  testCases.TC_002Accountregisteration - *******Test case Execution Started*****
+08:27:23.081 [main] INFO  testCases.TC_002Accountregisteration - *******Clicked on Myaccountlink******
+08:27:23.374 [main] INFO  testCases.TC_002Accountregisteration - *******Clicked on Register Link******
+08:27:24.454 [main] INFO  testCases.TC_002Accountregisteration - ****All the Input entered***
+08:27:34.530 [main] ERROR testCases.TC_002Accountregisteration - Test Failed with Exceptionno such element: Unable to locate element: {"method":"xpath","selector":"//h1[text()='Your Account Has Been Created!']"}
+  (Session info: chrome=156.0.8078.79)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.50.0', revision: 'be845fb be845fb44341cd7a6e7b27ba02dc1bdcf69dc51c'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5e7b6733e73f368b0d26959dfde8c6f3, findElement {value=//h1[text()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 156.0.8078.79, chrome: {chromedriverVersion: 156.0.8078.80 (fb096c0011f9..., userDataDir: C:\Users\Bhavya\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64220}, goog:processID: 20976, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64220/devtoo..., se:cdpVersion: 156.0.8078.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5e7b6733e73f368b0d26959dfde8c6f3
